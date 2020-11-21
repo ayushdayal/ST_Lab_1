@@ -16,8 +16,7 @@ public class Triangle {
                      * If side1 + side2 > side3 and
                      *    side2 + side3 > side1 and
                      *    side1 + side3 > side2 then
-                     * the triangle is valid. Hence set
-                     * valid variable to 1.
+                     * the triangle is valid.
                      */
                     valid = 1;
                 }

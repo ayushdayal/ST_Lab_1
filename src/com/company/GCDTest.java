@@ -74,7 +74,6 @@ class GCDTest {
     @Test
     void findGCD_BVC9() {
         createGcdAndAssertValue(nom1, justAboveMin, 1);
-        createGcdAndAssertValue(nom1, justBelowMax, 3);
     }
 
     ////  Robustness testing
